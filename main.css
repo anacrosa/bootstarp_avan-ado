@@ -1,0 +1,41 @@
+#cabecalho h1,.navbar h1 {
+    font-family: Roboto, sans-serif;
+    font-size: 36px;
+    color: #fff;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+.nav-link,
+.nav-link:hover {
+    color: #fff;
+}
+
+.header {
+    display: block;
+    background-color: rgb(199, 237, 224);
+}
+.section-title {
+    font-family: Pacifico, cursive;
+}
+
+#fale-conosco {
+    color: #fff;
+    margin-top: auto;
+    background-color: #9dd3db;
+
+}
+
+#fale-conosco button {
+    color: #fff;
+    background-color: #6eb2bd;
+}
+.navbar {
+    background-color: #9dd3db;
+}
+
+.container {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
